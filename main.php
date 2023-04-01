@@ -10,7 +10,7 @@ $opts = [
             ]
     ]
 ];
-$url_base = "https://raw.githubusercontent.com/drandroidsv/Wallia";
+$url_base = "https://raw.githubusercontent.com/wacko1805/Google-Pixel-Wallpapers-images/main";
 $img_name_full = $img_name;
 $context = stream_context_create($opts);
 
