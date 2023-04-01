@@ -8,9 +8,9 @@ $imagecount = count(glob("*/*.{jpg,png,gif,jpeg}", GLOB_BRACE));
 $arr =  array(
     "info" => array (
         "Title" => "Pixel Wallpapers", 
-        "Api Link" => "https://github.com/drandroidsv/wallpapermain", 
-        "Wallpapers Link" => "https://github.com/drandroidsv/Wallia", 
-        "Created by" => "Agdala",
+        "Api Link" => "https://github.com/wacko1805/google-pixel-wallpapers", 
+        "Wallpapers Link" => "https://github.com/wacko1805/google-pixel-wallpapers-images", 
+        "Created by" => "Jack Sam",
         "Imagecount" => "$imagecount",
     ));
 echo "[";
