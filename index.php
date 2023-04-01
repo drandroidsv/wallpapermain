@@ -16,6 +16,9 @@ $arr =  array(
 echo "[";
 echo json_encode($arr);
 echo ",";
+include('carros.php');
+include('coloridos.php');
+include('animal.php');
 include('motif.php');
 include('pkl.php');
 include('P6l.php');
