@@ -1,12 +1,107 @@
 [
-  {
+{
     "info": {
       "Title": "Pixel Wallpapers",
-      "Api Link": "https://github.com/wacko1805/google-pixel-wallpapers",
-      "Wallpapers Link": "https://github.com/wacko1805/google-pixel-wallpapers-images",
-      "Created by": "Jack Sam",
-      "Imagecount": "275"
+      "Api Link": "https://github.com/drandroidsv/wallpapermain",
+      "Wallpapers Link": "https://github.com/drandroidsv/Wallia",
+      "Created by": "Agdala",
+      "Imagecount": "500"
     }
+  },
+  {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/1.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/2.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/3.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/4.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/5.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/6.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/7.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/8.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/9.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/10.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/11.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/12.jpg",
+    "collections": "coloridos"
+  },
+    {
+    "name": "coloridos",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/13.jpg",
+    "collections": "coloridos"
+  },
+   {
+    "name": "carros",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/carros/1.jpg",
+    "collections": "carros"
+  },
+  {
+    "name": "carros",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/carros/2.jpg",
+    "collections": "carros"
+  },
+  {
+    "name": "carros",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/carros/3.jpg",
+    "collections": "carros"
+  },
+  {
+    "name": "carros",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/carros/4.jpg",
+    "collections": "carros"
+  },
+  {
+    "name": "carros",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/carros/5.jpg",
+    "collections": "carros"
+  },
+  {
+    "name": "carros",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/carros/6.jpg",
+    "collections": "carros"
   },
   {
     "name": "International Day of Persons with Disabilities 1",
