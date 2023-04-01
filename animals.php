@@ -1,6 +1,6 @@
 <?php
-$dir_name = "animals/";
-$coll = "animals";
+$dir_name = "animal/";
+$coll = "animal";
 include('main.php');
 
 ?>
