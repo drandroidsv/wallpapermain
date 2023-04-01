@@ -16,7 +16,6 @@ $arr =  array(
 echo "[";
 echo json_encode($arr);
 echo ",";
-include('motif.php');
 include('carros.php');
 include('coloridos.php');
 echo '{"":""}';
