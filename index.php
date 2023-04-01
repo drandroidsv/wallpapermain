@@ -18,14 +18,6 @@ echo json_encode($arr);
 echo ",";
 include('carros.php');
 include('coloridos.php');
-include('motif.php');
-include('puw.php');
-include('AAPI.php');
-include('ifd.php');
-include('ipan.php');
-include('aosp.php');
-include('ac.php');
-include('sop.php');
 echo '{"":""}';
 echo "]";
 ?>
