@@ -8,6 +8,61 @@
       "Imagecount": "500"
     }
   },
+      {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/1.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/2.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/3.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/4.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/5.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/6.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/7.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/8.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/9.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/10.jpg",
+    "collections": "animal"
+  },
+          {
+    "name": "animal",
+    "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/animal/11.jpg",
+    "collections": "animal"
+  },
   {
     "name": "coloridos",
     "url": "https://raw.githubusercontent.com/drandroidsv/Wallia/main/coloridos/1.jpg",
